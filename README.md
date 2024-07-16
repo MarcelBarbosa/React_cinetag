@@ -9,3 +9,4 @@ Projeto para praticar React, com uso de hooks, React Router e um JSON server par
 * My JSON Server
 
 ## Visualização:
+[https://react-cinetag-neon.vercel.app]
